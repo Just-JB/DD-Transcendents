@@ -1,0 +1,111 @@
+{
+    "Background": {
+        "order": "z-0",
+        "traits": {
+            "BEACH": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/BEACH.png",
+            "GATES": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/GATES.png",
+            "GREEN": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/GREEN.png",
+            "HELL": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/HELL.png",
+            "LAND": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/LAND.png",
+            "NYAN": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/NYAN.png",
+            "PINK": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/PINK.png",
+            "RAIN": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/RAIN.png",
+            "SNOW": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SNOW.png",
+            "SPACE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SPACE.png",
+            "SUPERNOVA": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SUPERNOVA.png",
+            "UNDERGROUND": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/UNDERGROUND.png",
+            "UNDERWATER": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/UNDERWATER.png",
+            "YELLOW": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/YELLOW.png"
+        }
+    },
+    "Body": {
+        "order": "z-20",
+        "traits": {
+            "ANGEL_WINGS": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/ANGEL_WINGS.png",
+            "DEVIL_WINGS": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/DEVIL_WINGS.png",
+            "DIAMOND_SWORD": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/DIAMOND_SWORD.png",
+            "KUNGFU": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/KUNGFU.png",
+            "LUMBERJACK": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/LUMBERJACK.png",
+            "MILITARY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/MILITARY.png",
+            "PILOT": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/PILOT.png",
+            "POLICE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/POLICE.png",
+            "SAILOR": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SAILOR.png",
+            "SHAKESPEAR": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SHAKESPEAR.png",
+            "SUSPENDERS": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SUSPENDERS.png",
+            "TOGA": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/TOGA.png",
+            "WACKDONALS": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/WACKDONALS.png",
+            "WIZARD": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/WIZARD.png"
+        }
+        
+    },
+    "Eyes": {
+        "order": "z-30",
+        "traits": {
+            "3D_GLASSES": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/3D_GLASSES.png",
+            "BEER_GOGGLES": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/BEER_GOGGLES.png",
+            "HALO": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/HALO.png",
+            "HAPPY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/HAPPY_EYES.png",
+            "MORPHEUS": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/MORPHEUS.png",
+            "NORMAL": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/NORMAL_EYES.png",
+            "PIRATE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/PIRATE_EYE.png",
+            "PIT_VIPERS": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/PIT_VIPERS.png",
+            "RED_LASER": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/RED_LASER.png",
+            "SOLANA_VIPERS": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SOLANA_VIPERS.png",
+            "SUPERHERO": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SUPERHERO.png",
+            "THUG": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/THUG.png",
+            "WAYFARER": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/WAYFARER.png"
+        }
+        
+    },
+    "Fur": {
+        "order": "z-10",
+        "traits": {
+            "ANGEL": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/ANGEL.png",
+            "AUSSIE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/AUSSIE.png",
+            "COSMIC": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/COSMIC.png",
+            "DALMATION": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/DALMATION.png",
+            "DEVIL": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/DEVIL.png",
+            "GOLDEN": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/GOLDEN.png",
+            "GRAY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/GRAY.png",
+            "ICE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/ICE.png",
+            "MUTTLEY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/MUTTLEY_FUR.png",
+            "SOLANA_DALMATION": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SOLANA_DALMATION.png",
+            "SOLANA": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SOLANA.png",
+            "ZOMBIE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/ZOMBIE.png"
+        }
+        
+    },
+    "Head": {
+        "order": "z-40",
+        "traits": {
+            "BEANIE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/BEANIE.png",
+            "BOATER": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/BOATER.png",
+            "CAPTAIN": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/CAPTAIN.png",
+            "CHEF": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/CHEF.png",
+            "COWBOY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/COWBOY.png",
+            "CROWN": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/CROWN.png",
+            "GOLD_LAUREL": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/GOLD_LAUREL.png",
+            "HALO": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/HALO_HEAD.png",
+            "MONOPOLY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/MONOPOLY.png",
+            "MUTTLEY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/MUTTLEY.png",
+            "PIRATE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/PIRATE_HAT.png",
+            "SHERLOCK": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SHERLOCK.png",
+            "TRUCKER": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/TRUCKER.png",
+            "WACKDONALDS": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/WACKDONALDS.png",
+            "WIZARD": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/WIZARD_HEAD.png"
+        }
+    },
+    "Mouth": {
+        "order": "z-50",
+        "traits": {
+            "BLEP": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/BLEP.png",
+            "BUBBLE_GUM": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/BUBBLE_GUM.png",
+            "DROOL": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/DROOL.png",
+            "HAPPY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/HAPPY_MOUTH.png",
+            "NORMAL": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/NORMAL_MOUTH.png",
+            "PIPE": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/PIPE.png",
+            "SHOEY": "https://shdw-drive.genesysgo.net/BKtsfuKr82gkH8oHWTgPhANtGizG1BEPbX4jYBkZxsKg/SHOEY.png"
+        }
+        
+    }
+}
